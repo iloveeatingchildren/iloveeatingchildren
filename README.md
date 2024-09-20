@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @iloveeatingchildren
-- 👀 I’m interested in eating children
-- 🌱 I’m currently learning how to properly decorate cooked children
-- 💞️ I’m looking to collaborate on children eating
+
